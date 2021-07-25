@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emily S. Carroll!
-- 👀 I’m interested in web development and software engineering.
+- 👀 I’m interested in web development, analytics, and software engineering.
 - 🌱 I’m currently learning Python, JavaScript, and how to not only develop, but engineer cutting-edge solutions for the tech world today. 
 - 💞️ I’m looking to collaborate on anything, really! All experience is valuable experience. 
 - 📫 How to reach me: via email, at ecarrollsoftware@gmail.com, or via LinkedIn, at https://www.linkedin.com/in/emily-s-carroll-959492a0/
